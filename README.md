@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005978148182) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gerec-genobiagon-547810307/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7mRMjyeBQh%2BcELwQsHd9dg%3D%3D) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/gerec_genobiagon1914) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005978148182&mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gerec-genobiagon-547810307/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7mRMjyeBQh%2BcELwQsHd9dg%3D%3D) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/gerec_genobiagon1914) 
 
 
 # 💻 Tech Stack:
