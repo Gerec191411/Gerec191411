@@ -1,9 +1,11 @@
-# Hi, I'm Gerec 
-👨🏻‍💻 Data Analyst Sharing about my journey and learning in this field<br>👨🏻‍🎓 Studied Bachelor of Science in Mathematics with Research Statistics at Davao Oriental State University 🔎(https://dorsu.edu.ph/)<br>Come and join me! As I explore and visualize the various sources of data and Trends.<br>💡 Explore and learn stunning data visualization in my Tableau account 🔎(https://public.tableau.com/app/profile/gerec.genobiagon/vizzes)<br><br>📣 You can also try and hands on learning tutorial in this website 📌(https://www.netacad.com/) Certificates: Upon successful completion, learners can earn digital badges and certificates endorsed by Cisco Networking Academy, boosting your credibility in the IT industry. My training Certificate 🔎(https://www.credly.com/badges/3a92d70b-32dd-43c8-9222-bdb66143115c)
+# 🏹 EROS
+**`Data Analyst | Digital Content Specialist (Marketing) |`**
 
+👨🏻‍💻 I am an aspiring Data Analyst Sharing about my journey and learning in this field one step at a time <br>👨🏻‍🎓 Studied Bachelor of Science in Mathematics with Research Statistics at Davao Oriental State University 🔎(https://dorsu.edu.ph/) <br> 👋 Come and join me! As I explore and visualize the various sources of data and Trends.<br>💡 Explore and learn stunning data visualization in my Tableau account (https://public.tableau.com/app/profile/gerec.genobiagon/vizzes) <br>🔎My training Certificate (https://www.credly.com/badges/3a92d70b-32dd-43c8-9222-bdb66143115c) <br>📣 You can also try and hands-on learning tutorial in this website (https://www.netacad.com/) <br>📌Certificates: Upon successful completion, learners can earn digital badges and certificates endorsed by Cisco Networking Academy, boosting your credibility in the IT industry.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005978148182&mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerec-genobiagon-547810307/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/gerec_genobiagon1914/) 
+ <p align="left">
+    <a href="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerec-genobiagon-547810307/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/gerec_genobiagon1914/) 
 
 
 # 💻 Tech Stack:
